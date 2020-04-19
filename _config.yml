@@ -41,7 +41,7 @@ sass:
 gems:
 - jekyll-sitemap
 - jekyll-feed
-- jekyll-localization
+- jekyll-language-plugin
 exclude:
 - Gemfile
 - Gemfile.lock
