@@ -10,7 +10,8 @@ layout: default
   </div>
 
   <div class="date">
-    Escrito el {{ page.date | date: "%e de %B de %Y" }}
+    Escrito el {{ page.date | date: "%e de %B de %Y"  }}
+    {{ page.date | tdate: 'post.date_format'  }}
   </div>
 
   {% include disqus.html %}
