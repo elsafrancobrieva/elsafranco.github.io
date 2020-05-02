@@ -4,12 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
-Some information about you!
+Soy una niña de 8 años.
 
-### More Information
+Escribo esto porque mi padre me obliga para que me quede de recuerdo.
 
-A place to include any other types of information that you'd like to include about yourself.
+Si os gusta, me podeis mandar un mensaje a
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[elsa.franco.brieva@gmail.com](mailto:elsa.franco.brieva@gmail.com)
